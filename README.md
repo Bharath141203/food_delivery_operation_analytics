@@ -132,6 +132,7 @@ The Power BI dashboard contains multiple analytical pages:
 - Customer Trends
 - Delivery Delay Analysis
 
+### Dashboard screenshots are available in the Screenshots folder.
 ---
 
 ## 💡 Key Business Insights
@@ -144,11 +145,6 @@ The Power BI dashboard contains multiple analytical pages:
 - Identified the relationship between delivery distance and delivery delays.
 
 ---
-## few dashboard images
-<img width="1100" height="672" alt="welcome page" src="https://github.com/user-attachments/assets/69a6e9e4-712a-4fd1-a13e-a14500467c68" />
-<img width="1092" height="676" alt="overview page" src="https://github.com/user-attachments/assets/f83c244c-adca-461e-a046-b03a2d123502" />
-<img width="1100" height="682" alt="sales page" src="https://github.com/user-attachments/assets/6142eff5-5b76-43d7-8ed1-58f1a3218c8f" />
-
 ## 📈 Business Recommendations
 
 - Optimize delivery partner allocation during peak hours.

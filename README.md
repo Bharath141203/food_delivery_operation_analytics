@@ -1,9 +1,9 @@
 # food_delivery_operation_analytics
-# 🍽️ Food Delivery Analytics
+# 🍽️ Food Delivery operation Analytics
 
 ## 📌 Project Overview
 
-This project is an end-to-end Food Delivery Analytics solution developed using Python, SQL, and Power BI.
+This project is an end-to-end Food Delivery operation Analytics solution developed using Python, SQL, and Power BI.
 
 The objective of this project is to analyze food delivery operations, customer behavior, menu performance, delivery partner efficiency, delivery delays, and peak-hour trends to generate meaningful business insights.
 
